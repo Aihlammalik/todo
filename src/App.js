@@ -23,10 +23,10 @@ function App() {
       {/* <Uniquechracter /> */}
    {/* <Navbar/> */}
 
-{/* <Button  title="Submit"/>
+<Button  title="Submit"/>
 <Button title="register"/>
 <Button title="Sucess"/>
-<Button title="Del"/> */}
+<Button title="Del"/>
 {/* <div>
 
 <Card />
